@@ -9,4 +9,5 @@
 int main()
 {
 	printf("Hellow World");
+	printf(".");
 }
