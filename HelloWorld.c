@@ -9,4 +9,5 @@
 int main()
 {
 	printf("Hellow World");
+	printf(", that's the first sentence in programming");
 }
