@@ -10,5 +10,5 @@ int main()
 {
 	printf("Hellow World");
 	printf(".");
-	printf(", that's the first sentence in programming");
+	printf(", that's the first sentence in programming.");
 }
