@@ -9,5 +9,7 @@
 int main()
 {
 	printf("Hellow World");
-	printf(", that's the first sentence in programming");
+	printf(".");
+	printf(", that's the first sentence in programming.");
+	printf("My name is Sokunbi Farid.");
 }
